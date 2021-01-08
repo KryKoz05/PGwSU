@@ -934,4 +934,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/GameOver.unity
   - Assets/Scenes/WiningScene.unity
-  playerPath: C:/Users/Cris/Desktop/JellyTrip/New Unity Project.exe
+  playerPath: C:/Users/Cris/Desktop/Jelly/New Unity Project.exe
